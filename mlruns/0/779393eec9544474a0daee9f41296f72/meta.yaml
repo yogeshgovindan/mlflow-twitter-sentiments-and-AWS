@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/YOGESH/ML/NLP_training/Twitter/mlruns/0/779393eec9544474a0daee9f41296f72/artifacts
+end_time: 1726684107785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 779393eec9544474a0daee9f41296f72
+run_name: resilient-bug-525
+run_uuid: 779393eec9544474a0daee9f41296f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726684097256
+status: 3
+tags: []
+user_id: acer
